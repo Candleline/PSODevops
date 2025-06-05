@@ -59,6 +59,12 @@ MyNotes showcases the perfect blend of technology and style:
 
 - **Icons:** Thoughtfully chosen icons from reputable sources enhance the visual appeal and user-friendliness.
 
+- **Docker:** Ensure consistent development and deployment environments using Docker's containerization technology.
+
+- **EsLint:** Maintain clean and error-free code by enforcing coding standards with ESLint.
+
+- **Vitest:** Enjoy lightning-fast unit testing tailored for modern frontend development.
+
 ## 🗄️ Storage
 
 MyNotes utilizes the browser's local storage to ensure your notes persist even after closing the app.
