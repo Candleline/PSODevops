@@ -8,7 +8,7 @@ RUN npm install
 COPY . .
 RUN npm run build
 
-# Step 2: Serve with Nginx
+# Step 2: Serve with Nginxx
 FROM nginx:stable-alpine
 
 # Salin hasil build ke direktori HTML Nginx
